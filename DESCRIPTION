@@ -1,0 +1,12 @@
+Package: AFTEMVS
+Type: Package
+Title: The Expectation-Maximization Approach to Bayesian Variable
+        Selection
+Version: 0.1
+Date: 2019-12-13
+Author: Nicholas Henderson [aut,cre]
+Maintainer: Nicholas Henderson <nchender@umich.edu>
+Description: An efficient expectation-maximization algorithm for fitting Bayesian spike-and-slab regularization paths for AFT regression models. 
+License: GPL-2
+Suggests: knitr, rmarkdown
+NeedsCompilation: yes

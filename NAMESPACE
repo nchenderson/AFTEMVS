@@ -1,0 +1,4 @@
+importFrom("graphics", "matplot", "matpoints", "par", "plot", "text",
+             "title")
+importFrom("stats", "model.matrix")
+export("EMVS")
